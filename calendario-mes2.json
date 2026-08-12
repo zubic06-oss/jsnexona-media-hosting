@@ -1,0 +1,80 @@
+[
+  {
+    "day": 13,
+    "date": "2026-08-12",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending"
+  },
+  {
+    "day": 14,
+    "date": "2026-08-18",
+    "time": "20:00",
+    "type": "reel",
+    "status": "pending"
+  },
+  {
+    "day": 15,
+    "date": "2026-08-20",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending"
+  },
+  {
+    "day": 16,
+    "date": "2026-08-25",
+    "time": "20:00",
+    "type": "reel",
+    "status": "pending"
+  },
+  {
+    "day": 17,
+    "date": "2026-08-27",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending"
+  },
+  {
+    "day": 18,
+    "date": "2026-09-01",
+    "time": "20:00",
+    "type": "reel",
+    "status": "pending"
+  },
+  {
+    "day": 19,
+    "date": "2026-09-03",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending"
+  },
+  {
+    "day": 20,
+    "date": "2026-09-08",
+    "time": "20:00",
+    "type": "reel",
+    "status": "pending"
+  },
+  {
+    "day": 21,
+    "date": "2026-09-10",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending",
+    "blocker": "condiciones de permanencia/cancelacion sin confirmar"
+  },
+  {
+    "day": 22,
+    "date": "2026-09-15",
+    "time": "20:00",
+    "type": "reel",
+    "status": "pending"
+  },
+  {
+    "day": 23,
+    "date": "2026-09-17",
+    "time": "20:00",
+    "type": "carousel",
+    "status": "pending"
+  }
+]
